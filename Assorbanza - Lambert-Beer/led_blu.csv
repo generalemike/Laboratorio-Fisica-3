@@ -1,4 +1,4 @@
-numero_foglietti(V=4.8V),tensione-rossi(mV),tensione-gialli(mV),tensione-blu(mV)
+numero_foglietti(V=6.0V),tensione-rossi(mV),tensione-gialli(mV),tensione-blu(mV)
 0,184,184,184
 1,96,68,152
 2,42,31,128
