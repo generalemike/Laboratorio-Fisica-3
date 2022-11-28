@@ -1,0 +1,9 @@
+numero_foglietti(V=4.8V),tensione-rossi(mV),tensione-gialli(mV),tensione-blu(mV)
+0,380,380,380
+1,284,308,276
+2,212,256,192
+3,174,204,136
+4,128,170,96
+5,108,132,60
+6,76,100,48
+7,68,88,40
